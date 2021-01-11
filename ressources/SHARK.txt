@@ -1,0 +1,23 @@
+
+
+       -______-______-______-______-______-______-______-
+      !                                                  !
+      !     oooooo  oo  oo    oooo    ooooo   oo  oo     !
+      !     o       oo  oo   oo  oo   oo  oo  oo oo      !
+      !     oooooo  oooooo  oooooooo  ooooo   oooo       !
+      !          o  oo  oo  oo    oo  oo oo   oo oo      !
+      !     oooooo  oo  oo  oo    oo  oo  oo  oo  oo     !
+      !                                                  !
+       -______-______-______-______-______-______-______-
+
+
+
+
+
+
+
+____________________________
+Pour un Cryptage, tapez C
+
+Pour un Decryptage, tapez D
+____________________________
